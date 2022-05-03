@@ -52,7 +52,7 @@ MafiaBot made by @H1M4N5HU0P. Supported by respective hellbot owner @Kraken_The_
 
 Simply clone the repository and run the main file:
 ```sh
-git clone https://github.com/Mat_kar_fight/MAFIA-USERBOT.git
+git clone https://github.com/masoom_jaat_king/MAFIA-USERBOT.git
 cd MAFIA-USERBOT
 virtualenv -p /usr/bin/python3 venv
 . ./venv/bin/activate
